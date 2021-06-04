@@ -23,7 +23,7 @@
   "devDependencies": {
     "@nuxtjs/color-mode": "^2.0.4",
     "@nuxtjs/tailwindcss": "^3.4.2",
-    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "autoprefixer": "^9",
     "postcss": "^8",
