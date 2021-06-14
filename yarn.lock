@@ -1331,12 +1331,12 @@
     consola "^2.15.3"
     defu "^3.2.2"
 
-"@nuxtjs/color-mode@^2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/color-mode/-/color-mode-2.0.4.tgz#7a2e62d459570f0c210dd6c0d296f31925eab346"
-  integrity sha512-wYoIwbNNFGtfD0oFo5P/tlnnir6NjYcbn+oG66XI3BJhfLFnFxG+rpFuVnIP3qpY2j0IAfq4CfgfdPeCRe/OLA==
+"@nuxtjs/color-mode@^2.0.10":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/color-mode/-/color-mode-2.0.10.tgz#0496d6d72be7ada3a106768fc4fa17bafea63bb3"
+  integrity sha512-eG2BHQaN7RApzbkaQ/IRzbrMRl1U5JvGK0gNYYek56P4eMkUqKnJqRLv9M56tsENtoZEa+4hg8Hd5iB+lZWFwg==
   dependencies:
-    defu "^3.2.2"
+    defu "^5.0.0"
     lodash.template "^4.5.0"
 
 "@nuxtjs/proxy@^2.1.0":
@@ -3635,6 +3635,11 @@ defu@^3.2.2:
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/defu/-/defu-3.2.2.tgz#be20f4cc49b9805d54ee6b610658d53894942e97"
   integrity sha512-8UWj5lNv7HD+kB0e9w77Z7TdQlbUYDVWqITLHNqFIn6khrNHv5WQo38Dcm1f6HeNyZf0U7UbPf6WeZDSdCzGDQ==
+
+defu@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/defu/-/defu-5.0.0.tgz#5768f0d402a555bfc4c267246b20f82ce8b5a10b"
+  integrity sha512-VHg73EDeRXlu7oYWRmmrNp/nl7QkdXUxkQQKig0Zk8daNmm84AbGoC8Be6/VVLJEKxn12hR0UBmz8O+xQiAPKQ==
 
 delegate@^3.1.2:
   version "3.2.0"
