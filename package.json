@@ -15,7 +15,7 @@
     "@splitbee/web": "^0.2.4",
     "@tailwindcss/line-clamp": "^0.2.0",
     "aframe": "^1.2.0",
-    "core-js": "^3.8.3",
+    "core-js": "^3.15.2",
     "dateformat": "^4.5.1",
     "nuxt": "^2.14.12",
     "prism-themes": "^1.5.0"
